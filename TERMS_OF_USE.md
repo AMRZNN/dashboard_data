@@ -18,6 +18,8 @@ De gegevens in de Repository zijn beschikbaar gesteld onder de Creative Commons 
 
 Gebruik van de gegevens is uitsluitend toegestaan voor niet-commerciële doeleinden, waaronder begrepen wetenschappelijk onderzoek, onderwijs, journalistiek en publieke informatievoorziening, mits voldaan wordt aan alle overige voorwaarden zoals neergelegd in dit document.
 
+Voor journalistiek gebruik geldt de aanvullende voorwaarde dat de resulterende publicatie kosteloos en zonder toegangsbeperking beschikbaar dient te zijn voor het publiek.
+
 ## 4. Verboden gebruik
 
 Het is uitdrukkelijk verboden de gegevens, geheel of gedeeltelijk, te gebruiken voor:
@@ -72,6 +74,8 @@ The data in the Repository are made available under the Creative Commons Attribu
 ## 3. Permitted Use
 
 Use of the data is permitted solely for non-commercial purposes, including scientific research, education, journalism, and public information provision, provided that all other conditions set out in this document are met.
+
+For journalistic use, the additional condition applies that the resulting publication must be freely and publicly accessible without any access restriction.
 
 ## 4. Prohibited Use
 
