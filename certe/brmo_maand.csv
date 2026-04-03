@@ -1,4 +1,4 @@
-"jaar","maand","nuts3","is_mrsa","is_vre","is_esbl","is_cre","is_cpe","is_facre","is_fara","is_cpa","is_mrpa","is_ca"
+"jaar","maand","nuts3","mrsa","vre","esbl","cre","cpe","facre","fara","cpa","mrpa","ca"
 2024,6,"Delfzijl en omgeving",0,0,2,0,0,0,0,0,0,0
 2024,6,"Flevoland",5,0,1,0,0,1,0,0,0,0
 2024,6,"Noord-Drenthe",0,0,6,0,0,0,0,0,0,0
