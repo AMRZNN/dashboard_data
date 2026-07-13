@@ -70,8 +70,8 @@
 2024,12,"Drenthe","Zuidwest-Drenthe",0,0,1,2,0,1,0,1,0,0,0,0,0,0
 2024,12,"Flevoland","Flevoland",0,0,2,5,1,1,0,0,0,0,0,4,0,0
 2024,12,"Friesland","Noord-Friesland",4,0,21,34,5,1,0,31,0,0,0,22,3,0
-2024,12,"Friesland","Zuidoost-Friesland",2,0,7,17,1,2,0,8,0,0,0,11,1,0
-2024,12,"Friesland","Zuidwest-Friesland",1,0,3,15,1,1,0,6,0,0,0,8,0,0
+2024,12,"Friesland","Zuidoost-Friesland",2,0,7,18,1,2,0,8,0,0,0,11,1,0
+2024,12,"Friesland","Zuidwest-Friesland",1,0,3,14,1,1,0,6,0,0,0,8,0,0
 2024,12,"Groningen","Delfzijl en omgeving",0,0,0,5,0,0,0,6,1,0,0,1,1,0
 2024,12,"Groningen","Oost-Groningen",2,0,6,11,2,1,1,9,0,0,0,3,2,0
 2024,12,"Groningen","Overig Groningen",1,0,9,12,0,1,1,11,0,0,0,7,1,0
@@ -87,7 +87,7 @@
 2025,1,"Groningen","Oost-Groningen",0,0,7,4,1,0,0,102,0,1,0,28,2,2
 2025,1,"Groningen","Overig Groningen",1,0,3,10,0,0,0,172,0,0,0,37,0,11
 2025,1,"Overijssel","Noord-Overijssel",0,0,0,0,0,0,0,10,0,0,0,0,0,0
-2025,2,"Drenthe","Noord-Drenthe",0,0,0,3,1,0,1,125,0,0,0,20,0,21
+2025,2,"Drenthe","Noord-Drenthe",0,0,0,3,1,0,1,124,0,0,0,20,0,21
 2025,2,"Drenthe","Zuidoost-Drenthe",0,0,1,2,0,2,0,112,0,0,0,29,0,12
 2025,2,"Drenthe","Zuidwest-Drenthe",0,0,0,0,0,0,0,46,0,0,0,6,0,0
 2025,2,"Flevoland","Flevoland",0,0,1,0,0,0,0,26,0,0,0,2,0,1
@@ -95,7 +95,7 @@
 2025,2,"Friesland","Zuidoost-Friesland",0,0,1,14,0,0,0,139,0,0,0,22,0,13
 2025,2,"Friesland","Zuidwest-Friesland",0,0,0,5,0,0,1,100,0,0,0,7,0,14
 2025,2,"Groningen","Delfzijl en omgeving",1,0,0,3,0,0,0,41,0,0,0,8,0,1
-2025,2,"Groningen","Oost-Groningen",1,0,2,3,3,0,1,163,0,0,0,24,0,10
+2025,2,"Groningen","Oost-Groningen",1,0,2,3,3,0,1,164,0,0,0,24,0,10
 2025,2,"Groningen","Overig Groningen",1,0,0,8,1,0,1,195,0,1,0,38,0,28
 2025,2,"Overijssel","Noord-Overijssel",0,0,0,1,0,0,0,8,0,0,0,2,0,1
 2025,3,"Drenthe","Noord-Drenthe",0,0,0,5,0,0,0,29,0,0,0,23,0,5
@@ -193,10 +193,10 @@
 2025,11,"Overijssel","Noord-Overijssel",0,0,0,0,0,0,1,0,0,0,0,0,0,0
 2025,12,"Drenthe","Noord-Drenthe",0,0,2,6,1,0,1,15,0,0,0,1,0,0
 2025,12,"Drenthe","Zuidoost-Drenthe",0,0,4,3,1,0,4,18,0,0,0,7,1,0
-2025,12,"Drenthe","Zuidwest-Drenthe",0,0,0,1,0,0,0,3,0,0,0,2,1,0
+2025,12,"Drenthe","Zuidwest-Drenthe",0,0,0,2,0,0,0,3,0,0,0,2,1,0
 2025,12,"Flevoland","Flevoland",0,0,1,0,0,0,5,2,0,0,0,1,1,0
 2025,12,"Friesland","Noord-Friesland",0,0,15,18,8,1,13,23,0,2,2,2,1,0
-2025,12,"Friesland","Zuidoost-Friesland",0,0,9,17,1,2,4,14,0,0,0,1,1,0
+2025,12,"Friesland","Zuidoost-Friesland",0,0,9,16,1,2,4,14,0,0,0,1,1,0
 2025,12,"Friesland","Zuidwest-Friesland",0,0,10,8,1,0,5,8,0,0,1,2,2,0
 2025,12,"Groningen","Delfzijl en omgeving",0,0,1,2,0,0,0,2,0,0,0,1,0,0
 2025,12,"Groningen","Oost-Groningen",0,0,9,12,1,2,2,24,0,0,1,2,0,0
@@ -264,10 +264,13 @@
 2026,6,"Friesland","Zuidwest-Friesland",0,0,10,0,1,4,0,0,0,0,0,0,0,0
 2026,6,"Groningen","Oost-Groningen",0,0,1,0,0,2,0,0,0,3,0,0,0,0
 2026,6,"Groningen","Overig Groningen",0,0,4,0,1,5,0,0,0,2,0,0,0,0
-2026,7,"Drenthe","Noord-Drenthe",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2026,7,"Drenthe","Noord-Drenthe",0,0,1,0,0,1,0,0,0,0,0,0,0,0
 2026,7,"Drenthe","Zuidwest-Drenthe",0,0,0,0,0,0,0,0,0,0,1,0,0,0
-2026,7,"Friesland","Noord-Friesland",0,0,4,0,1,1,0,0,0,2,0,0,0,0
-2026,7,"Friesland","Zuidoost-Friesland",0,0,2,0,0,0,0,0,0,1,0,0,0,0
-2026,7,"Friesland","Zuidwest-Friesland",0,0,2,0,0,2,0,0,0,0,0,0,0,0
-2026,7,"Groningen","Oost-Groningen",0,0,2,0,0,3,0,0,0,1,0,0,0,0
-2026,7,"Groningen","Overig Groningen",0,0,1,0,0,1,0,0,0,3,0,0,0,0
+2026,7,"Flevoland","Flevoland",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2026,7,"Friesland","Noord-Friesland",0,0,4,0,4,3,0,0,0,3,0,0,0,0
+2026,7,"Friesland","Zuidoost-Friesland",0,0,2,0,0,2,0,0,0,1,0,0,0,0
+2026,7,"Friesland","Zuidwest-Friesland",0,0,3,0,0,3,0,0,0,1,0,0,0,0
+2026,7,"Groningen","Delfzijl en omgeving",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2026,7,"Groningen","Oost-Groningen",0,0,3,0,0,4,0,0,0,1,0,0,0,0
+2026,7,"Groningen","Overig Groningen",0,0,3,0,0,2,0,0,0,5,0,0,0,0
+2026,7,"Overijssel","Noord-Overijssel",0,0,0,0,0,1,0,0,0,0,0,0,0,0
