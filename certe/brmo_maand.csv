@@ -1223,7 +1223,7 @@
 2024,6,"Drenthe","Zuidoost-Drenthe",8,0,2,1,1,0,0,0,0,0
 2024,6,"Drenthe","Zuidwest-Drenthe",6,0,1,0,0,1,0,0,1,0
 2024,6,"Flevoland","Flevoland",1,0,3,0,0,0,0,0,0,0
-2024,6,"Friesland","Noord-Friesland",19,0,5,0,0,0,0,0,0,0
+2024,6,"Friesland","Noord-Friesland",20,0,5,0,0,0,0,0,0,0
 2024,6,"Friesland","Zuidoost-Friesland",14,0,3,0,0,0,0,0,0,0
 2024,6,"Friesland","Zuidwest-Friesland",5,0,6,1,0,0,0,0,0,0
 2024,6,"Groningen","Delfzijl en omgeving",4,0,0,0,0,0,0,0,0,0
@@ -1490,13 +1490,23 @@
 2026,6,"Groningen","Oost-Groningen",24,0,16,1,0,1,0,0,1,0
 2026,6,"Groningen","Overig Groningen",17,0,5,0,0,0,0,0,0,0
 2026,6,"Overijssel","Noord-Overijssel",2,0,1,0,0,0,0,0,0,0
-2026,7,"Drenthe","Noord-Drenthe",6,0,2,0,0,1,0,0,1,0
-2026,7,"Drenthe","Zuidoost-Drenthe",17,0,3,0,0,0,0,0,0,0
-2026,7,"Drenthe","Zuidwest-Drenthe",8,0,1,0,0,0,0,0,0,0
-2026,7,"Flevoland","Flevoland",4,0,1,1,0,0,0,0,0,0
-2026,7,"Friesland","Noord-Friesland",19,0,10,2,0,0,0,0,0,0
+2026,7,"Drenthe","Noord-Drenthe",6,0,3,0,0,1,0,0,1,0
+2026,7,"Drenthe","Zuidoost-Drenthe",16,0,3,0,0,0,0,0,0,0
+2026,7,"Drenthe","Zuidwest-Drenthe",8,0,1,1,0,0,0,0,0,0
+2026,7,"Flevoland","Flevoland",5,0,1,1,0,0,0,0,0,0
+2026,7,"Friesland","Noord-Friesland",21,0,10,2,0,0,0,0,0,0
 2026,7,"Friesland","Zuidoost-Friesland",11,0,2,0,0,0,0,0,0,0
 2026,7,"Friesland","Zuidwest-Friesland",14,0,2,0,0,1,0,0,1,0
 2026,7,"Groningen","Delfzijl en omgeving",8,0,6,0,0,0,0,0,0,0
-2026,7,"Groningen","Oost-Groningen",14,1,7,1,0,0,0,0,0,0
-2026,7,"Groningen","Overig Groningen",11,1,2,1,0,1,0,0,1,0
+2026,7,"Groningen","Oost-Groningen",17,1,8,1,0,0,0,0,0,0
+2026,7,"Groningen","Overig Groningen",12,1,2,1,0,1,0,0,1,0
+2026,8,"Drenthe","Noord-Drenthe",2,0,3,0,0,0,0,0,0,0
+2026,8,"Drenthe","Zuidoost-Drenthe",0,0,2,0,0,0,0,0,0,0
+2026,8,"Drenthe","Zuidwest-Drenthe",2,0,0,0,0,0,0,0,0,0
+2026,8,"Friesland","Noord-Friesland",1,0,2,0,0,0,0,0,0,0
+2026,8,"Friesland","Zuidoost-Friesland",3,0,0,0,0,0,0,0,0,0
+2026,8,"Friesland","Zuidwest-Friesland",1,0,0,0,0,0,0,0,0,0
+2026,8,"Groningen","Delfzijl en omgeving",0,0,1,0,0,0,0,0,0,0
+2026,8,"Groningen","Oost-Groningen",1,0,1,0,0,0,0,0,0,0
+2026,8,"Groningen","Overig Groningen",2,0,0,0,0,0,0,0,0,0
+2026,8,"Overijssel","Noord-Overijssel",1,0,0,0,0,0,0,0,0,0
