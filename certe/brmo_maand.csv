@@ -627,9 +627,9 @@
 2019,11,"Drenthe","Noord-Drenthe",5,0,1,0,0,0,0,0,0,0
 2019,11,"Drenthe","Zuidoost-Drenthe",13,0,5,0,0,1,0,0,1,0
 2019,11,"Drenthe","Zuidwest-Drenthe",6,0,2,0,0,0,0,0,0,0
-2019,11,"Flevoland","Flevoland",4,0,1,0,0,0,0,0,0,0
+2019,11,"Flevoland","Flevoland",4,0,0,0,0,0,0,0,0,0
 2019,11,"Friesland","Noord-Friesland",17,0,5,2,0,1,0,0,2,0
-2019,11,"Friesland","Zuidoost-Friesland",13,0,4,1,0,0,0,0,0,0
+2019,11,"Friesland","Zuidoost-Friesland",13,0,5,1,0,0,0,0,0,0
 2019,11,"Friesland","Zuidwest-Friesland",8,0,2,0,0,0,0,0,0,0
 2019,11,"Groningen","Delfzijl en omgeving",13,0,0,0,0,1,0,0,1,0
 2019,11,"Groningen","Oost-Groningen",13,0,8,0,0,0,0,0,0,0
@@ -1520,15 +1520,15 @@
 2026,9,"Friesland","Zuidwest-Friesland",12,0,4,0,1,0,0,0,0,0
 2026,9,"Groningen","Delfzijl en omgeving",1,0,2,0,0,0,0,0,0,0
 2026,9,"Groningen","Oost-Groningen",13,0,8,0,0,0,0,0,0,0
-2026,9,"Groningen","Overig Groningen",19,0,9,2,0,1,2,0,1,0
+2026,9,"Groningen","Overig Groningen",18,0,9,2,0,0,2,0,0,0
 2026,9,"Overijssel","Noord-Overijssel",3,0,0,0,0,0,0,0,0,0
 2026,10,"Drenthe","Noord-Drenthe",4,0,3,0,0,0,0,0,0,0
-2026,10,"Drenthe","Zuidoost-Drenthe",3,0,1,0,0,0,0,0,0,0
-2026,10,"Drenthe","Zuidwest-Drenthe",2,0,0,0,0,0,0,0,0,0
-2026,10,"Flevoland","Flevoland",2,0,1,0,0,0,0,0,0,0
-2026,10,"Friesland","Noord-Friesland",3,0,2,1,0,0,0,0,0,0
-2026,10,"Friesland","Zuidoost-Friesland",1,0,0,0,0,0,0,0,0,0
-2026,10,"Friesland","Zuidwest-Friesland",3,0,0,0,0,0,0,0,0,0
-2026,10,"Groningen","Delfzijl en omgeving",1,0,0,0,0,0,0,0,0,0
-2026,10,"Groningen","Oost-Groningen",1,0,3,0,0,0,0,0,0,0
-2026,10,"Groningen","Overig Groningen",3,0,0,0,0,0,0,0,0,0
+2026,10,"Drenthe","Zuidoost-Drenthe",6,0,1,0,0,0,0,0,0,0
+2026,10,"Drenthe","Zuidwest-Drenthe",5,0,0,0,0,0,0,0,0,0
+2026,10,"Flevoland","Flevoland",2,0,0,0,0,0,0,0,0,0
+2026,10,"Friesland","Noord-Friesland",5,0,5,1,1,1,0,0,1,0
+2026,10,"Friesland","Zuidoost-Friesland",5,0,1,0,1,0,0,0,0,0
+2026,10,"Friesland","Zuidwest-Friesland",8,0,0,0,0,0,0,0,0,0
+2026,10,"Groningen","Delfzijl en omgeving",1,0,1,0,0,0,0,0,0,0
+2026,10,"Groningen","Oost-Groningen",5,0,5,1,0,0,0,0,0,0
+2026,10,"Groningen","Overig Groningen",9,0,2,0,1,0,0,0,0,0
